@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.pixilart.com/art/hack-gif-best-one-efd2e94936a85ea"/> </p>
+<p align="center"> <img src="https://cdn.theatlantic.com/thumbor/ASh4urDx9dlbZAk4JseTq4xj2ts=/0x50:960x590/960x540/media/img/mt/2016/10/banner-3/original.gif"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kernel0x01&label=Profile%20views&color=0e75b6&style=flat" alt="kernel0x01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kernel0x01&theme=onestar" alt="kernel0x01" /></a> </p>
