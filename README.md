@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://forem.dev/images/wwl9il3DJK8mIUC2Hj3LQnkeEaKn8Ra4cbAUeNt-0Mo/s:1000:420/mb:500000/ar:1/aHR0cHM6Ly9mb3Jl/bS5kZXYvcmVtb3Rl/aW1hZ2VzL3VwbG9h/ZHMvYXJ0aWNsZXMv/OWJld2pkOG9yb2Fj/eXM5NzU0emguZ2lm"/> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kernel0x01&label=Profile%20views&color=0e75b6&style=flat" alt="kernel0x01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kernel0x01&theme=onestar" alt="kernel0x01" /></a> </p>
